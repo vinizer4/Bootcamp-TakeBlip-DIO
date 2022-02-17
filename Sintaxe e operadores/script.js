@@ -95,3 +95,5 @@ function comparacao (a, b) {
 }
 
 comparacao(18, 5)
+
+/* CORREÇÃO DA PROFESSORA NO SCRIPT comparaNumeros.js */
