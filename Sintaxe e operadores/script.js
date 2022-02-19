@@ -19,6 +19,8 @@ Operador     Exemplo     Equivalente a
 
 /* TIPOS DE OPERADORES
 
+ARITIMETICOS
+
 Operador         Descrição
   +                Adição
   -                Subtração
