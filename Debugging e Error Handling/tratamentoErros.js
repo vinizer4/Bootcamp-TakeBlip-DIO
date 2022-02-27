@@ -58,3 +58,14 @@ function tryCatchExemplo(string) {
 }
 
 
+// Manipular o objeto error
+
+// O objeto Error
+
+new Error(message, fileName, lineNumber)
+
+const MeuErro = new Error('Mensagem Inválida');
+// Criamos uma nova instacia para o erro
+MeuErro.name = 'InvalidMessage'; // Definimos um novo nome para o erro
+
+throw MeuErro;
